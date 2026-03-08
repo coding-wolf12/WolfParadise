@@ -1,2 +1,2 @@
 # WolfParadise
-a network of website that have all sort of websites like for listening music, exercise, and other.
+Just a website navbar inspired by amazon and work fine now i will add flask to make the login part work proerly
